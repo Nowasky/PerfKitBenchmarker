@@ -188,4 +188,5 @@
     and using variable expansion.
 -   Added `--google_monitoring_endpoint` flag for querying a different endpoint
     than monitoring.googleapis.com. Used by `cloud_bigtable_ycsb`.
+-   Update Go language binary to version 1.17.2
 -   Broadens Azure quota detection parsing
